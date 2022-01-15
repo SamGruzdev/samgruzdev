@@ -13,4 +13,4 @@
 ![Appium](https://img.shields.io/badge/-Appium-252525?style=for-the-badge&logo=Appium&logoColor=F05033)
 
 ### Contact me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-252525?style=for-the-badge&logo=LinkedIn&logoColor=007BB6)|(https://www.linkedin.com/in/samgruzdev/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-252525?style=for-the-badge&logo=LinkedIn&logoColor=007BB6)](https://www.linkedin.com/in/samgruzdev/)
