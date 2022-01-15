@@ -15,6 +15,8 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-252525?style=for-the-badge&logo=HTML5&logoColor=E44D26)
 ![CSS3](https://img.shields.io/badge/-CSS3-252525?style=for-the-badge&logo=CSS3&logoColor=264DE4)
 ![Less](https://img.shields.io/badge/-Less-252525?style=for-the-badge&logo=Less&logoColor=FFFFFF)
+![Android](https://img.shields.io/badge/-AndroidStudio-252525?style=for-the-badge&logo=AndroidStudio&logoColor=#3DDC84)
+![iOS](https://img.shields.io/badge/-iOS-252525?style=for-the-badge&logo=Apple&logoColor=FFFFFF)
 ![Bash](https://img.shields.io/badge/-Bash-252525?style=for-the-badge&logo=GnuBash&logoColor=FFFFFF)
 ![Jira](https://img.shields.io/badge/-Jira-252525?style=for-the-badge&logo=Jira&logoColor=0A5FD9)
 
