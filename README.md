@@ -1,4 +1,4 @@
-[![Header](https://github.com/SamGruzdev/samgruzdev/blob/main/assets/Header.png)](http://samgruzdev.ru/)
+[![Header](https://github.com/SamGruzdev/samgruzdev/blob/main/assets/Header2.png)](http://samgruzdev.ru/)
 
 ## Hi, i`m QA engineer
 
