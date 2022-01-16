@@ -1,6 +1,7 @@
 [![Header](https://github.com/SamGruzdev/samgruzdev/blob/main/assets/Header2.png)](http://samgruzdev.ru/)
 
-## Hi, i'm QA engineer
+<h1 align="center">Hi, I'm Sam</h1>
+<h3 align="center">I'm a QA engineer</h3>
 
 ### Languages and Tools:
 
