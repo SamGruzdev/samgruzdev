@@ -22,10 +22,12 @@
 <a href="https://www.android.com/intl/ru_ru/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/android.png" alt="Android" width="48" height="48"/> </a>
 <a href="https://ru.wikipedia.org/wiki/IOS" target="_blank"> <img src="https://img.icons8.com/color/48/4a90e2/ios-logo.png" alt="IOS" width="48" height="48"/> </a>
 
-## Github Stats
+### Github Stats
+
 <br/>
 <a href="https://github.com/SamGruzdev/github-readme-stats"><img alt="Sam Gruzdev Github Stats" src="https://github-readme-stats.vercel.app/api?username=SamGruzdev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a><a href="https://github.com/SamGruzdev/github-readme-stats"><img alt="Sam Gruzdev Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamGruzdev&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br/>
+
 ### Contact me
 
 <a href="https://www.linkedin.com/in/samgruzdev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="48" height="48"/> </a>
