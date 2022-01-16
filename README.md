@@ -22,6 +22,8 @@
 <a href="https://www.android.com/intl/ru_ru/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/android.png" alt="Android" width="48" height="48"/> </a>
 <a href="https://ru.wikipedia.org/wiki/IOS" target="_blank"> <img src="https://img.icons8.com/color/48/4a90e2/ios-logo.png" alt="IOS" width="48" height="48"/> </a>
 
+<a href="https://github.com/SamGruzdev/github-readme-stats"><img alt="Sam Gruzdev`s Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamGruzdev&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
 ### Contact me
 
 <a href="https://www.linkedin.com/in/samgruzdev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="48" height="48"/> </a>
