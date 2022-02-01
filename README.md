@@ -1,8 +1,8 @@
 [![Header](https://github.com/SamGruzdev/samgruzdev/blob/main/assets/Header_3.png)](http://samgruzdev.ru/)
 
-<h1 align="left">Hi, my name Sam. I'm QA engineer</h1>
+<h2 align="left">Hi, my name Sam. I'm QA engineer</h2>
 
-### Languages and Tools:
+### Languages and Tools
 
 <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/> </a>
 <a href="https://cucumber.io/" target="_blank"> <img src="https://github.com/SamGruzdev/samgruzdev/blob/main/assets/cucumber.svg" alt="Cucumber" width="48" height="48"/> </a>
