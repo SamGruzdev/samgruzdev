@@ -16,7 +16,6 @@
 <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-<a href="https://www.atlassian.com/ru/software/jira" target="_blank"> <img src="https://github.com/SamGruzdev/samgruzdev/blob/main/assets/jira.svg" alt="Jira" width="48" height="48"/> </a>
 <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="48" height="48"/> </a>
 <a href="https://www.android.com/intl/ru_ru/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/android.png" alt="Android" width="48" height="48"/> </a>
 <a href="https://ru.wikipedia.org/wiki/IOS" target="_blank"> <img src="https://img.icons8.com/color/48/4a90e2/ios-logo.png" alt="IOS" width="48" height="48"/> </a>
