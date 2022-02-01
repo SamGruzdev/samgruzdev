@@ -1,7 +1,6 @@
-[![Header](https://github.com/SamGruzdev/samgruzdev/blob/main/assets/Header2.png)](http://samgruzdev.ru/)
+[![Header](https://github.com/SamGruzdev/samgruzdev/blob/main/assets/Header_3.png)](http://samgruzdev.ru/)
 
-<h1 align="center">Hi, I'm Sam</h1>
-<h3 align="center">I'm a QA engineer</h3>
+<h1 align="left">Hi, my name Sam. I'm QA engineer</h1>
 
 ### Languages and Tools:
 
