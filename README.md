@@ -19,7 +19,7 @@
 ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=Android)
 ![IOS](https://img.shields.io/badge/-IOS-333333?style=flat)
 
-###GitHub Analytics
+### GitHub Analytics
 <p align="center">
     <a href="https://github.com/SamGruzdev">
         <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SamGruzdev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
@@ -27,6 +27,6 @@
     </a>
 </p>
 
-###Contact me
+### Contact me
 
 <a href="https://www.linkedin.com/in/samgruzdev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="28" height="28"/></a>
