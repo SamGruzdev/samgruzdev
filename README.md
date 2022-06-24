@@ -28,4 +28,4 @@
 </p>
 
 ###Contact me
-<a href="https://www.link
+<a href="https://www.linkedin.com/in/samgruzdev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="28" height="28"/></a>
