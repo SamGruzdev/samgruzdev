@@ -1,30 +1,31 @@
 [![Header](https://github.com/SamGruzdev/samgruzdev/blob/main/assets/Header_3.png)](http://samgruzdev.ru/)
 
-<h2 align="left">Hi, my name Sam. I'm QA engineer</h2>
+<h2 align="center">Hi, my name Sam. I'm QA engineer</h2>
 
-### Languages and Tools
+### Languages and tools
 
-<a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/> </a>
-<a href="https://www.selenium.dev/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/4a90e2/selenium-test-automation.png" alt="Selenium"/> </a>
-<a href="https://appium.io/" target="_blank"> <img src="https://github.com/SamGruzdev/samgruzdev/blob/main/assets/appium.svg" alt="Appium"/> </a>
-<a href="https://docs.qameta.io/allure/" target="_blank"> <img src="https://github.com/SamGruzdev/samgruzdev/blob/main/assets/allure.svg" alt="Allure"/> </a>
-<a href="https://www.charlesproxy.com/" target="_blank"> <img src="https://github.com/SamGruzdev/samgruzdev/blob/main/assets/charles.svg" alt="Charles"/> </a>
-<a href="https://ru.wikipedia.org/wiki/HTML" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
-<a href="https://ru.wikipedia.org/wiki/CSS" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
-<a href="https://lesscss.org/" target="_blank"> <img src="https://img.icons8.com/windows/32/000000/less-logo.png" alt="Less" width="45" height="45"/> </a>
-<a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-<a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="48" height="48"/> </a>
-<a href="https://www.android.com/intl/ru_ru/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/android.png" alt="Android" width="48" height="48"/> </a>
-<a href="https://ru.wikipedia.org/wiki/IOS" target="_blank"> <img src="https://img.icons8.com/color/48/4a90e2/ios-logo.png" alt="IOS" width="48" height="48"/> </a>
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
+![JUnit5](https://img.shields.io/badge/-Junit5-333333?style=flat&logo=junit5)
+![Selenide](https://img.shields.io/badge/-Selenide-333333?style=flat&logo=Selenium&logoColor=blue)
+![Appium](https://img.shields.io/badge/-Appium-730099?style=flat&logo=Appium&logoColor=blue)
+![Allure](https://img.shields.io/badge/-Allure_report-00998a?style=flat&logo=allure&logoColor=blue)  
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![Less](https://img.shields.io/badge/-Less-000000?style=flat&logo=less)  
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
+![Charles](https://img.shields.io/badge/-Charles-99003d?style=flat&logo=Charles)
+![Postman](https://img.shields.io/badge/-Postman-205fbd?style=flat&logo=postman)    
+![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=Android)
+![IOS](https://img.shields.io/badge/-IOS-333333?style=flat)
 
-### Github Stats
+###GitHub Analytics
+<p align="center">
+    <a href="https://github.com/SamGruzdev">
+        <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SamGruzdev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
+        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamGruzdev&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
+    </a>
+</p>
 
-<br/>
-<a href="https://github.com/SamGruzdev/github-readme-stats"><img alt="Sam Gruzdev Github Stats" src="https://github-readme-stats.vercel.app/api?username=SamGruzdev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a><a href="https://github.com/SamGruzdev/github-readme-stats"><img alt="Sam Gruzdev Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamGruzdev&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<br/>
-
-### Contact me
-
-<a href="https://www.linkedin.com/in/samgruzdev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="48" height="48"/> </a>
+###Contact me
+<a href="https://www.link
