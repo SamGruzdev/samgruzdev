@@ -23,7 +23,6 @@
 <p align="center">
     <a href="https://github.com/SamGruzdev">
         <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SamGruzdev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
-        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamGruzdev&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
     </a>
 </p>
 
